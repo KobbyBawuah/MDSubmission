@@ -1,7 +1,7 @@
 # MDSubmission
 Lab 2
 
-Added the AddCirAtomicArray 
+Added the AddellipticalAtomicArray 
 
 Added another Mass(Kobby Particle)
 
